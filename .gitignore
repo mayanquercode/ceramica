@@ -1,0 +1,4 @@
+backend/node_modules
+backend/data/inventory.json
+backend/data/stock.json
+backend/data/store.json
