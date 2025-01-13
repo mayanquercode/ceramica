@@ -5,6 +5,33 @@
     "paths": {
       "@/*": [
         "./*"
+      ],
+      "@src/*": [
+        "./src/*"
+      ],
+      "@app/*": [
+        "./src/app/*"
+      ],
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@constants/*": [
+        "./src/constants/*"
+      ],
+      "@hooks/*": [
+        "./src/hooks/*"
+      ],
+      "@layouts/*": [
+        "./src/layouts/*"
+      ],
+      "@screens/*": [
+        "./src/screens/*"
+      ],
+      "@ui/*": [
+        "./src/ui/*"
+      ],
+      "@types/*": [
+        "./src/types/*"
       ]
     }
   },
